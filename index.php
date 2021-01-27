@@ -15,7 +15,7 @@
 </tr>
 <tr>
 <td>MR. MO</td>
-<td>CEBU VITY</td>
+<td>CEBU CITY</td>
 <td>FEB. 15, 1988</td>
 </tr>
 </table>
